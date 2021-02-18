@@ -5,7 +5,7 @@ My take on Collin's BMS. Changes listed below:
 - Cells balance for 30s and then update again, turning the balancers off momentarily to get accurate readings.
 - Baud set 612500 (I have older Tesla packs)
 
-See it in action here: <a href="http://longdogpowerplant.com/">LongDog Power Plant</a>
+See it in action here: <a href="http://www.longdogpowerplant.com/">LongDog Power Plant</a>
 
 Arduino compatible project to interface with the BMS slave 
 board on Tesla Model S modules.
